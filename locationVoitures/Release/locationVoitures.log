@@ -1,0 +1,21 @@
+﻿La génération a démarré 29/05/2020 04:23:13.
+     1>Projet "C:\Users\Hicham\documents\visual studio 2012\Projects\locationVoitures\locationVoitures\locationVoitures.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Microsoft.VisualBasic.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\VBPowerPacks\v10.0\Microsoft.VisualBasic.PowerPacks.Vs.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Configuration.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\System.Data.SQLite\2012\bin\System.Data.SQLite.dll" /FU"C:\Program Files (x86)\System.Data.SQLite\2012\bin\System.Data.SQLite.Linq.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Design.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Admin.cpp Administrateur.cpp Client.cpp Configuration.cpp Connexion.cpp login.cpp
+         Admin.cpp
+     1>c:\users\hicham\documents\visual studio 2012\projects\locationvoitures\locationvoitures\Connexion.h(14): fatal error C1083: Impossible d'ouvrir le fichier include : 'SQLAPI.h' : No such file or directory
+         Administrateur.cpp
+     1>c:\users\hicham\documents\visual studio 2012\projects\locationvoitures\locationvoitures\Connexion.h(14): fatal error C1083: Impossible d'ouvrir le fichier include : 'SQLAPI.h' : No such file or directory
+         Client.cpp
+     1>c:\users\hicham\documents\visual studio 2012\projects\locationvoitures\locationvoitures\Connexion.h(14): fatal error C1083: Impossible d'ouvrir le fichier include : 'SQLAPI.h' : No such file or directory
+         Configuration.cpp
+         Connexion.cpp
+     1>c:\users\hicham\documents\visual studio 2012\projects\locationvoitures\locationvoitures\Connexion.h(14): fatal error C1083: Impossible d'ouvrir le fichier include : 'SQLAPI.h' : No such file or directory
+         login.cpp
+     1>c:\users\hicham\documents\visual studio 2012\projects\locationvoitures\locationvoitures\Connexion.h(14): fatal error C1083: Impossible d'ouvrir le fichier include : 'SQLAPI.h' : No such file or directory
+         Génération de code en cours...
+     1>Génération du projet "C:\Users\Hicham\documents\visual studio 2012\Projects\locationVoitures\locationVoitures\locationVoitures.vcxproj" terminée (Build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:22.64

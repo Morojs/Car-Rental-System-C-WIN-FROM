@@ -1,0 +1,124 @@
+﻿La génération a démarré 30/05/2020 08:35:46.
+     1>Projet "C:\Users\Hicham\documents\visual studio 2012\Projects\locationVoitures\locationVoitures\locationVoitures.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Microsoft.VisualBasic.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\VBPowerPacks\v10.0\Microsoft.VisualBasic.PowerPacks.Vs.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Configuration.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\System.Data.SQLite\2012\bin\System.Data.SQLite.dll" /FU"C:\Program Files (x86)\System.Data.SQLite\2012\bin\System.Data.SQLite.Linq.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Design.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Admin.cpp FLocation.cpp Location.cpp login.cpp
+         Admin.cpp
+     1>c:\users\hicham\documents\visual studio 2012\projects\locationvoitures\locationvoitures\Connexion.h(35): warning C4927: conversion non conforme ; plusieurs conversions définies par l'utilisateur ont été appliquées implicitement
+                 lors de l'appel du constructeur 'std::basic_string<_Elem,_Traits,_Alloc>::basic_string(const _Elem *)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Alloc=std::allocator<char>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xstring(789) : voir la déclaration de 'std::basic_string<_Elem,_Traits,_Alloc>::basic_string'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Alloc=std::allocator<char>
+                 ]
+     1>c:\users\hicham\documents\visual studio 2012\projects\locationvoitures\locationvoitures\Voiture.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+         FLocation.cpp
+     1>c:\users\hicham\documents\visual studio 2012\projects\locationvoitures\locationvoitures\Connexion.h(35): warning C4927: conversion non conforme ; plusieurs conversions définies par l'utilisateur ont été appliquées implicitement
+                 lors de l'appel du constructeur 'std::basic_string<_Elem,_Traits,_Alloc>::basic_string(const _Elem *)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Alloc=std::allocator<char>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xstring(789) : voir la déclaration de 'std::basic_string<_Elem,_Traits,_Alloc>::basic_string'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Alloc=std::allocator<char>
+                 ]
+     1>c:\users\hicham\documents\visual studio 2012\projects\locationvoitures\locationvoitures\Voiture.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+         Location.cpp
+     1>c:\users\hicham\documents\visual studio 2012\projects\locationvoitures\locationvoitures\Connexion.h(35): warning C4927: conversion non conforme ; plusieurs conversions définies par l'utilisateur ont été appliquées implicitement
+                 lors de l'appel du constructeur 'std::basic_string<_Elem,_Traits,_Alloc>::basic_string(const _Elem *)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Alloc=std::allocator<char>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xstring(789) : voir la déclaration de 'std::basic_string<_Elem,_Traits,_Alloc>::basic_string'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Alloc=std::allocator<char>
+                 ]
+     1>c:\users\hicham\documents\visual studio 2012\projects\locationvoitures\locationvoitures\Voiture.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+         login.cpp
+     1>c:\users\hicham\documents\visual studio 2012\projects\locationvoitures\locationvoitures\Connexion.h(35): warning C4927: conversion non conforme ; plusieurs conversions définies par l'utilisateur ont été appliquées implicitement
+                 lors de l'appel du constructeur 'std::basic_string<_Elem,_Traits,_Alloc>::basic_string(const _Elem *)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Alloc=std::allocator<char>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xstring(789) : voir la déclaration de 'std::basic_string<_Elem,_Traits,_Alloc>::basic_string'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Alloc=std::allocator<char>
+                 ]
+     1>c:\users\hicham\documents\visual studio 2012\projects\locationvoitures\locationvoitures\Administrateur.h(18): warning C4927: conversion non conforme ; plusieurs conversions définies par l'utilisateur ont été appliquées implicitement
+                 lors de l'appel du constructeur 'std::basic_string<_Elem,_Traits,_Alloc>::basic_string(const _Elem *)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Alloc=std::allocator<char>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xstring(789) : voir la déclaration de 'std::basic_string<_Elem,_Traits,_Alloc>::basic_string'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Alloc=std::allocator<char>
+                 ]
+     1>c:\users\hicham\documents\visual studio 2012\projects\locationvoitures\locationvoitures\Administrateur.h(19): warning C4927: conversion non conforme ; plusieurs conversions définies par l'utilisateur ont été appliquées implicitement
+                 lors de l'appel du constructeur 'std::basic_string<_Elem,_Traits,_Alloc>::basic_string(const _Elem *)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Alloc=std::allocator<char>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xstring(789) : voir la déclaration de 'std::basic_string<_Elem,_Traits,_Alloc>::basic_string'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Alloc=std::allocator<char>
+                 ]
+     1>c:\users\hicham\documents\visual studio 2012\projects\locationvoitures\locationvoitures\Voiture.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+         Génération de code en cours...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Hicham\documents\visual studio 2012\Projects\locationVoitures\Debug\locationVoitures.exe" /INCREMENTAL:NO /NOLOGO C:\SQLAPI\vs2012\lib\sqlapi.lib C:\sql3\sqlite3.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:Debug\locationVoitures.Admin.resources /ASSEMBLYRESOURCE:Debug\locationVoitures.Config.resources /ASSEMBLYRESOURCE:Debug\locationVoitures.EspaceClient.resources /ASSEMBLYRESOURCE:Debug\locationVoitures.FLocation.resources /ASSEMBLYRESOURCE:Debug\locationVoitures.login.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Hicham\documents\visual studio 2012\Projects\locationVoitures\Debug\locationVoitures.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Admin.obj
+         Debug\Administrateur.obj
+         Debug\Client.obj
+         Debug\Configuration.obj
+         Debug\Connexion.obj
+         Debug\FLocation.obj
+         Debug\Location.obj
+         Debug\login.obj
+         Debug\Voiture.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         locationVoitures.vcxproj -> C:\Users\Hicham\documents\visual studio 2012\Projects\locationVoitures\Debug\locationVoitures.exe
+       PostBuildEvent:
+         copy app.config "C:\Users\Hicham\documents\visual studio 2012\Projects\locationVoitures\Debug\locationVoitures.exe.config"
+         :VCEnd
+                 1 file(s) copied.
+     1>Génération du projet "C:\Users\Hicham\documents\visual studio 2012\Projects\locationVoitures\locationVoitures\locationVoitures.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:30.79
